@@ -15,7 +15,7 @@
         <module>xrpc-framework/xrpc-core</module>
         <module>xrpc-manager</module>
         <module>xrpc-demo/xrpc-consumer-demo</module>
-        <module>xrpc-demo/xrpc-provicer-demo</module>
+        <module>xrpc-demo/xrpc-provider-demo</module>
         <module>xrpc-demo/xrpc-api</module>
     </modules>
 
@@ -83,13 +83,6 @@
                 <artifactId>hessian</artifactId>
                 <version>${hession.version}</version>
             </dependency>
-
-            <dependency>
-                <groupId>com.alibaba.fastjson2</groupId>
-                <artifactId>fastjson2</artifactId>
-                <version>${fastjson2.version}</version>
-            </dependency>
-
         </dependencies>
     </dependencyManagement>
 

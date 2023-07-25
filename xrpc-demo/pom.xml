@@ -14,7 +14,7 @@
     <modules>
         <module>xrpc-api</module>
         <module>xrpc-consumer-demo</module>
-        <module>xrpc-provicer-demo</module>
+        <module>xrpc-provider-demo</module>
     </modules>
 
     <properties>
